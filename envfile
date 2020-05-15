@@ -1,0 +1,7 @@
+X_USERNAME=santoo999
+X_PASSWORD=Santoo999
+X_REPONAME=santoo999/wercker-demo
+X_TAGNAME="1505"
+X_CNT_NAME=test-wercker-container
+X_IMAGE_BASE="santoo999/werckerdemo-1505"
+
